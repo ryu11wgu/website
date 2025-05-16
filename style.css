@@ -42,8 +42,18 @@ h1 {
   font-size: 28px;
   text-align: center;
   background-color: #a7d7c5;
-  padding: 15px;
+  /* padding: 15px; */
   color: white;
+}
+
+.title {
+  margin-bottom: 0px;
+  padding-top: 15px;
+}
+
+.studio {
+  padding-bottom: 15px;
+  margin-top: 0px;
 }
 
 h2 {
@@ -104,6 +114,16 @@ img {
 }
 
 .book-btn {
+  color: white;
+  background-color: #a7d7c5;
+  padding: 10px;
+  font-weight: bold;
+  margin: 20px;
+  border-radius: 15px;
+  border: 1px solid #74b49b;
+}
+
+.contact-btn {
   color: white;
   background-color: #a7d7c5;
   padding: 10px;
